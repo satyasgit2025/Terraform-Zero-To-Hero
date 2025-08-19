@@ -1,4 +1,4 @@
-# Setup Terraform for AWS
+# Terraform for AWS
 
 To configure AWS credentials and set up Terraform to work with AWS, you'll need to follow these steps:
 
