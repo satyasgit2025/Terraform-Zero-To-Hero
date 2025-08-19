@@ -3,7 +3,7 @@
 Install Terraform from the Downloads
 
 https://developer.hashicorp.com/terraform/install
-(https://developer.hashicorp.com/terraform/downloads)
+https://developer.hashicorp.com/terraform/downloads
 
 (or)
 
