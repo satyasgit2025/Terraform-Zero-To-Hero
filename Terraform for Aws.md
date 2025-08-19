@@ -15,7 +15,7 @@ a. Log in to the AWS Management Console with an account that has administrative 
 
 b. Navigate to the IAM service.
 
-c. Click on "Users" in the left navigation pane and then click "Add user."
+c. Click on "Users" in the left navigation page and then click "Add user."
 
 - Choose a username, select "Programmatic access" as the access type, and click "Next: Permissions."
 
