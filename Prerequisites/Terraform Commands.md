@@ -1,11 +1,12 @@
-#**Go to user's home directoty of terraform.**
+#**Go to user's home directoty of terraform like here user is bob.**
 
 cd /home/bob/terraform 
 
 #Create main.tf file in /home/bob/terraform location & paste TF code inside this.
 
+```
 vi main.tf 
-
+```
 # Run Below Commands to execute the task further.
 
 ##Initialize Terraform:
@@ -35,6 +36,6 @@ terraform plan
 ```
 terraform apply 
 ```
-##(Enter a value: **yes** & Apply complete! Resources: 1 added, 0 changed, 0 destroyed).
+##(Enter a value: **yes** & End Msg will be like "Apply complete! Resources: 1 added, 0 changed, 0 destroyed").
 
 
