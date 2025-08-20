@@ -36,6 +36,6 @@ terraform plan
 ```
 terraform apply 
 ```
-##(Enter a value: **yes** & Apply complete! Resources: 1 added, 0 changed, 0 destroyed).
+##(Enter a value: **yes** & End Msg will be like "Apply complete! Resources: 1 added, 0 changed, 0 destroyed").
 
 
