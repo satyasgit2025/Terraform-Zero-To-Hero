@@ -1,11 +1,12 @@
-#**Go to user's home directoty of terraform.**
+#**Go to user's home directoty of terraform like here user is bob.**
 
 cd /home/bob/terraform 
 
 #Create main.tf file in /home/bob/terraform location & paste TF code inside this.
 
+```
 vi main.tf 
-
+```
 # Run Below Commands to execute the task further.
 
 ##Initialize Terraform:
