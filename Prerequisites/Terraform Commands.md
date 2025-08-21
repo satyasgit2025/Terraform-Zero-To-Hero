@@ -21,7 +21,7 @@ terraform init
 ```
 terraform validate
 ```
-##Confirms there are no syntax/config errors.
+##Confirms there are no syntax/config errors & End Msg will be like "Success! The configuration is valid".
 
 ##Preview the plan:
 
@@ -37,5 +37,23 @@ terraform plan
 terraform apply 
 ```
 ##(Enter a value: **yes** & End Msg will be like "Apply complete! Resources: 1 added, 0 changed, 0 destroyed").
+if didn't want to enter yes or execute command directly use below cmd.
 
+```
+terraform apply -auto-approve
+```
+
+##Terraform keeps track of resources in a file called terraform.tfstate in your working directory (/home/bob/terraform).
+
+To see the resource use below comd.
+
+```
+terraform state list
+```
+
+##To see details about that resource use below cmd.
+
+```
+terraform state show ...keep output of abaove cmd...
+```
 
